@@ -1,2 +1,2 @@
-export * from './HeaderMobile';
-export * from './HeroMobile';
+export * from './components';
+export * from './template';
